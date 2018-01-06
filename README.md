@@ -1,5 +1,5 @@
 # rocknsm-upload
-Small web app to upload and scan pcap files with RockNSM.
+Small web app to upload and scan pcap files with RockNSM's bro.
 
 
 ## Setup
